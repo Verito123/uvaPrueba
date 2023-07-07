@@ -1,2 +1,8 @@
 Hi
 hello
+
+esto es una prueba
+main:
+{
+  realizar una actividad: pizza
+}
